@@ -41,6 +41,19 @@ Common Mistakes with the Current Interface
 4. Users may not realize the elevator is going the opposite direction than they intended.
 5. Users may select the button that does nothing.
 
+Improvements
+1.First and foremost change the button layout to vertical. This will match the system to the real world and be much easier for users.
+2. Change the small white light feedback to a bright red so users can really see when a button is pressed.l
+3. Give the users a way to see what floor they are going to.
+4. Give the users a way to see what direction the elevator is going.
+5. Provide audio feedback for users.
+6. Give users a way to see the current status of the elevator in real time.
+
+
+
+
+
+
 
 Sketch of New Design
 
