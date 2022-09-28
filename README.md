@@ -17,13 +17,20 @@ Overall the user interface on this elevator isnt terrible. There are no incredib
 Common Elevator Uses for the User
 1. User going up to thier room.
 2. User going down from thier room.
-3. User holding the elevator open.
-4. User checking to see what floor they are on.
-5. User checking elevator direction(either up or down)
-6. User closing the elevator doors
+3. User selecting the appropriate floor.
+4. User holding the elevator open.
+5. User checking to see what floor they are on.
+6. User checking elevator direction(either up or down)
+7. User closing the elevator doors
 
 
 
 
 Uncommon Elevator Uses for the User
 1. User hitting the emergency button 
+2. User selecting every floor.
+3. User needs Audio Feedback 
+
+
+
+
