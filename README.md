@@ -44,7 +44,8 @@ Common Mistakes with the Current Interface
 
 Sketch of New Design
 
-
+![](Images/ElevatorSketchWhileStill.jpg)
+![](Images/ElevatorSketchWhileMoving.jpg)
 
 
 
