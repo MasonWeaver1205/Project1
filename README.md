@@ -42,8 +42,10 @@ Common Mistakes with the Current Interface
 5. Users may select the button that does nothing.
 
 Improvements
+
+
 1.First and foremost change the button layout to vertical. This will match the system to the real world and be much easier for users.
-2. Change the small white light feedback to a bright red so users can really see when a button is pressed.l
+2. Change the small white light feedback to a bright red so users can really see when a button is pressed.
 3. Give the users a way to see what floor they are going to.
 4. Give the users a way to see what direction the elevator is going.
 5. Provide audio feedback for users.
@@ -61,7 +63,7 @@ Sketch of New Design
 ![](Images/ElevatorSketchWhileMoving.jpg)
 
 
-
+This design is much more ideal for users for many reasons. It has a very simple and sleek design easy for users to use and understand. Plenty of audio and visual feedback for users. The buttons light up bright red and call out the floor number that has been selected. The close door button has been removed entirely because this elevator automatically closes if the touchscreen has not been pressed in the last five seconds. The open door button will hold the door open another five seconds when pressed. When the elevator has begun moving the touchscreen will tell you exactly what floor you are moving to as well as the direction the elevator is traveling to avoid confusion. It will also tell you how close you are to the next floor with a simple loading bar and percentage number. This new design is sleek yet simple and will get rid of all the problems users may have faced in the original interface.
 
 
 
