@@ -34,6 +34,20 @@ Uncommon Elevator Uses for the User
 The current elevator interface does not provide the best experience for those using the elevator for common activities.
 When users enter the elevator and go to press a button the layout requires the users to think and pay attention to thier actions more than is neccesary. Finding the close and open door buttons is more difficult than neccesary and checking the direction and floor that you are going to is impossible. When the user has selected a floor button the feedback provided is too little. It is hard for users to tell the button has been selected at all and no audio feedback is given. Furthermore the open and close door buttons provide absolutely no feedback for the user when pressed. The elevator interface does provide appropriate feedback for emergency uses.
 
+Common Mistakes with the Current Interface
+1. Users will press the wrong floor by mistake wasting time.
+2. Users will not realize they have selected a button due to lack of feedback and will press the buttons repeatedly.
+3. Users will not realize they are not on the correct floor and will walk off prematurely.
+4. Users may not realize the elevator is going the opposite direction than they intended.
+5. Users may select the button that does nothing.
+
+
+Sketch of New Design
+
+
+
+
+
 
 
 
