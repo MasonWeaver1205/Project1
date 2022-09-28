@@ -1,2 +1,2 @@
 # Project1
-![(Images/StartingElevatorInterface.jpg)]
+![](Images/StartingElevatorInterface.jpg)
