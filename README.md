@@ -32,7 +32,7 @@ Uncommon Elevator Uses for the User
 3. User needs Audio Feedback 
 
 The current elevator interface does not provide the best experience for those using the elevator for common activities.
-When users enter the elevator and go to press a button the layout requires the users to think and pay attention to thier actions more than is neccesary. Finding the close and open door buttons is more difficult than neccesary and checking the direction and floor that you are going to is impossible. When the user has selected a floor button the feedback provided is too little. It is hard for users to tell the button has been selected at all and no audio feedback is given.
+When users enter the elevator and go to press a button the layout requires the users to think and pay attention to thier actions more than is neccesary. Finding the close and open door buttons is more difficult than neccesary and checking the direction and floor that you are going to is impossible. When the user has selected a floor button the feedback provided is too little. It is hard for users to tell the button has been selected at all and no audio feedback is given. Furthermore the open and close door buttons provide absolutely no feedback for the user when pressed. The elevator interface does provide appropriate feedback for emergency uses.
 
 
 
