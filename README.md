@@ -13,6 +13,7 @@ This feature took a long time to implement but I am very happy with how it turne
 My mirror also features a functional News app that takes a json file and reads the data to give you the news.
 A similar app that allow the user to see upcoming events on thier calendar.
 A health app which shows a graph containing a lot of health information including how much quality sleep the user is getting.
+It also has a completely functional clock and the ability to backtrack by simply clicking on any app a second time to exit.
 
 My Most advanced feature is the voice command neccesary to turn make the mirror appear. It was quite complicated to get the voice commands working and then I had to rework many different aspects of my design to get everything functioning properly again.
 The saying is MAGIC MIRROR ON THE WALL
