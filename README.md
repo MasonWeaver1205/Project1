@@ -1,6 +1,5 @@
 # Project2
 ![](p2.Mason.Weaver.png)
-[![Alt text](https://img.youtube.com/vi/s8sigc5FdtM/0.jpg)](https://www.youtube.com/watch?v=s8sigc5FdtM)
 
 Current Design Issues
 1. The Layout of the floor buttons does not match between the system and the real world.
