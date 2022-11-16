@@ -60,8 +60,7 @@ Improvements
 
 Sketch of New Design
 
-![](Images/ElevatorSketchWhileStill.jpg)
-![](Images/ElevatorSketchWhileMoving.jpg)
+
 
 
 This design is much more ideal for users for many reasons. It has a very simple and sleek design easy for users to use and understand. Plenty of audio and visual feedback for users. The buttons light up bright red and call out the floor number that has been selected. The close door button has been removed entirely because this elevator automatically closes if the touchscreen has not been pressed in the last five seconds. The open door button will hold the door open another five seconds when pressed. When the elevator has begun moving the touchscreen will tell you exactly what floor you are moving to as well as the direction the elevator is traveling to avoid confusion. It will also tell you how close you are to the next floor with a simple loading bar and percentage number. This new design is sleek yet simple and will get rid of all the problems users may have faced in the original interface.
