@@ -1,4 +1,4 @@
-# Project2
+# Smart Mirror Design
 ![](p2.Mason.Weaver.png)
 
 Design
